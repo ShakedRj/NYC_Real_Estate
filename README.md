@@ -10,4 +10,5 @@ Where are the distressed properties
 Types of distressed properties
 Budget spending
 ROI - in percentages
-
+NYC Open Source - Data
+Zillow - Data Source
