@@ -1,5 +1,5 @@
-# project_01_fintech
-
+# NY Real Estate Investment 
+---
 ### `TEAM MEMBERS`
 
 `Shelly, Rachel, Shubhra, Kevin`
