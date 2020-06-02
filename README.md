@@ -2,7 +2,7 @@
 ---
 ### `TEAM MEMBERS`
 
-`Shelly, Rachel, Shubhra, Kevin`
+`Shaked-Shelly, Rachel, Shubhra, Kevin`
 ---
 
 - Category - Fintech for Real Estate
